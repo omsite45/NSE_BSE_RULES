@@ -9,7 +9,7 @@ Fractional ownership through depository receipts is covered in 13, where HDFC Ba
 I should also consider the sectoral caps from FEMA rules. 10 notes that holdings must adhere to foreign investment limits, which would affect allotment if sectors have caps. 
 Putting this together, the restrictions are multi-faceted: issuer eligibility, holder eligibility, lock-ins, and structural limitations via depository receipts. The user might be looking for compliance details, possibly for legal or investment purposes. They might need to understand barriers to issuing or acquiring shares in NSE IFSC. Ensuring each restriction is clearly explained with the right citations from 10,12,13 will cover their query."""
 "According to Association of NSE IFSC Limited in certificates section, what are the Member’s right to Certificates?,""Members' rights to certificates under NSE IFSC are tied to regulatory approvals (SEBI/IFSCA/RBI) and confer privileges like multi-asset trading, tax benefits, and global market access. These are contingent on strict compliance with capital norms, settlement rules, and investor protection frameworks. For full details, refer to the IFSCA regulations and NSE IFSC membership guidelines 8,10,14."""
-"""According to Association of NSE IFSC Limited what is the Dematerialisation of equity shares ?"",""Depositories & DPs: Equity shares must be held with SEBI-registered depositories (NSDL or CDSL) through Depository Participants (DPs). Investors must open a demat account with a DP to hold/trade shares 113.
+"According to Association of NSE IFSC Limited what is the Dematerialisation of equity shares ? ,""Depositories & DPs: Equity shares must be held with SEBI-registered depositories (NSDL or CDSL) through Depository Participants (DPs). Investors must open a demat account with a DP to hold/trade shares 113.
 ISIN Requirement: Companies must obtain an International Securities Identification Number (ISIN) for equity shares from NSDL/CDSL 12.
 Registrar and Transfer Agent (RTA): Companies must appoint a SEBI-registered RTA to manage shareholder records, corporate actions (e.g., dividends, bonus issues), and coordinate with depositories 3,12 . Dematerialisation under NSE IFSC enables seamless, secure trading of global equities via electronic depository receipts, governed by IFSCA/SEBI mandates. Its success hinges on compliance with the 2025 deadline and leveraging fractional ownership for retail accessibility. For details, refer to NSE IFSC's capital structure guidelines and IFSCA regulations.."""
 "According to Association of NSE IFSC Limited under ""TRANSFER AND TRANSMISSION OF SHARES"" , what is ""Execution of instrument of transfer""? ,""Based on the search results, the term ""Execution of instrument of transfer"" under ""Transfer and Transmission of Shares"" for NSE IFSC Limited refers to the formal process of legally transferring share ownership. Here are the key requirements and procedures:
@@ -97,7 +97,7 @@ Directors of NSE IFSC Limited may refuse share transfers **only if**:
 > (ii) Procedures (notices, board resolutions) are strictly followed; and  
 > (iii) Decisions prioritize the **company's best interests** with documented evidence .  
 Failure in any aspect risks court-mandated registration and liability. For entity-specific rules, consult **NSE IFSC's Articles of Association** and SEBI/IFSCA regulations.."""
-"""According to Association of NSE IFSC Limited what are MATTERS WHICH ARE NECESSARY FOR FURTHERANCE OF THE OBJECTS SPECIFIED IN CLAUSE 3(A) ARE:?"",""Based on the Memorandum of Association (MOA) of **NSE IFSC Limited** (registered under Section 8 of the Companies Act, 2013), the matters necessary for furthering the objectives specified in **Clause 3(a)** are outlined in **Section II** of the MOA. These include:  
+"According to Association of NSE IFSC Limited what are MATTERS WHICH ARE NECESSARY FOR FURTHERANCE OF THE OBJECTS SPECIFIED IN CLAUSE 3(A) ARE:? ,""Based on the Memorandum of Association (MOA) of **NSE IFSC Limited** (registered under Section 8 of the Companies Act, 2013), the matters necessary for furthering the objectives specified in **Clause 3(a)** are outlined in **Section II** of the MOA. These include:  
 
 ---
 
@@ -236,6 +236,3 @@ For issuer-specific steps, consult [NSE IFSC's depository guidelines](https://ww
 | Post-Conversion Compliance | Disclose changes; align with tax norms                                       | IFSCA/RBI                     |
 
 For granular details, refer to NSE IFSC’s **Articles of Association** and IFSCA’s securities regulations ."""
-
-
-
